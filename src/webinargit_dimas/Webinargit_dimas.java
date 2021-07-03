@@ -18,6 +18,9 @@ public class Webinargit_dimas {
         // TODO code application logic here
         System.out.println("Hallo Word");
         System.out.println("Nama saya Dimas surya adi putra");
+        
+        
+        System.out.println("Saya sedang Belajar GIT");
     }
     
 }
