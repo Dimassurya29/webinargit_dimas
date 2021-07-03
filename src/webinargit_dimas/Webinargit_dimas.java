@@ -17,6 +17,7 @@ public class Webinargit_dimas {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hallo Word");
+        System.out.println("Nama saya Dimas surya adi putra");
     }
     
 }
